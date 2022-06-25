@@ -1,0 +1,7 @@
+{
+  "ip": "localhost",
+  "port": 50000,
+  "databaseURL" : "jdbc:mysql://6t2cdvafrp2z.eu-west-2.psdb.cloud/casino?sslMode=VERIFY_IDENTITY",
+  "databaseUsername": "pvrroyha65ps",
+  "databasePassword": "pscale_pw_iFZ7CM6pFzxRB0ThuHZ36i-KBNBR-0-FI39AewJg_5c"
+}
